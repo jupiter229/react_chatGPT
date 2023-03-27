@@ -6,11 +6,11 @@ import { Cards, Footer, Header, Main } from "components";
 const Home: React.FC = () => {
   return (
     <Flex direction="column" minH="100vh">
-      <Header />
+      {/* <Header />
       <Main />
       <Cards />
       <Spacer />
-      <Footer />
+      <Footer /> */}
     </Flex>
   );
 };
